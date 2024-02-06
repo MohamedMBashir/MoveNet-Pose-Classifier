@@ -1,8 +1,8 @@
 # Pose Classification Project
 
 <p float="left">
-  <img src="https://imgur.com/r5skk8r" width="400" />
-  <img src="https://imgur.com/7ODrwxS" width="400" /> 
+  <img src="https://i.imgur.com/r5skk8r.png" width="400" height="450"/>
+  <img src="https://i.imgur.com/7ODrwxS.png" width="400" height="450"/> 
 </p>
 
 ## Introduction
@@ -15,7 +15,7 @@ To set up the project, follow these steps:
 
 ## Usage
 Run the Streamlit app with:
-- streamlit run streamlit_app.py
+- type `streamlit run streamlit_app.py` on your terminal.
 - Place yourself in the camera's view and start performing squats. The application will display real-time pose estimation and count your squat reps.
 
 ## Training Your Own Model
