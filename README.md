@@ -15,7 +15,7 @@ To set up the project, follow these steps:
 
 ## Usage
 Run the Streamlit app with:
-- streamlit run streamlit_app.py
+- type `streamlit run streamlit_app.py` on your terminal.
 - Place yourself in the camera's view and start performing squats. The application will display real-time pose estimation and count your squat reps.
 
 ## Training Your Own Model
