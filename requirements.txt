@@ -6,4 +6,3 @@ opencv_python==4.8.0.74
 pandas==2.2.0
 streamlit==1.31.0
 tensorflow==2.14.0
-# tflite_runtime==2.14.0
