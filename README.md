@@ -1,8 +1,8 @@
 # Pose Classification Project
 
 <p float="left">
-  <img src="https://i.imgur.com/r5skk8r.png" width="400" />
-  <img src="https://i.imgur.com/7ODrwxS.png" width="400" /> 
+  <img src="https://i.imgur.com/r5skk8r.png" width="400" height="450"/>
+  <img src="https://i.imgur.com/7ODrwxS.png" width="400" height="450"/> 
 </p>
 
 ## Introduction
