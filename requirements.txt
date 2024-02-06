@@ -1,6 +1,7 @@
 keras_rl2==1.0.5
 matplotlib==3.8.0
 numpy==1.26.3
-opencv-contrib-python-headless==4.8.0.74
+opencv-python==4.8.0.74
+pandas==2.2.0
 streamlit==1.31.0
 tensorflow==2.14.0
