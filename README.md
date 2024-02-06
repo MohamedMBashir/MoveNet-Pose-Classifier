@@ -10,7 +10,7 @@ This project uses MoveNet for real-time pose estimation and a custom neural netw
 
 ## Installation and Usage
 To set up the project, follow these steps:
-1. Clone the repository to your local machine with `https://github.com/MohamedMBashir/MoveNet-Pose-Classifier.git`.
+1. Clone the repository to your local machine with `git clone https://github.com/MohamedMBashir/MoveNet-Pose-Classifier.git`.
 2. Move the the projet directory and Install the required dependencies using `pip install -r requirements.txt`.
 3. Run `streamlit run streamlit_app.py`.
 
